@@ -24,7 +24,7 @@ This repository contains Python scripts for encoding and decoding messages using
 1. Clone this repository:
    ```bash
    git clone https://github.com/valinux/Number-Station.git
-   cd your-repo-name
+   cd repo-name
    ```
 
 2. Run the encoding script:
