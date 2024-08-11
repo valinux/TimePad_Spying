@@ -83,14 +83,3 @@ Decoded Text Message: MEET ME AT 09:00
 
 ## Important Note
 - **One-Time Pad Security**: Each one-time pad must be unique and used only once. Reusing a one-time pad can compromise the security of the encoded messages.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### How to Use This README:
-1. Replace `yourusername` and `your-repo-name` with your actual GitHub username and the name of your repository.
-2. Place this `README.md` file in the root directory of your repository.
-3. Make any adjustments or additions that you feel are necessary to provide more context or information about your project. 
-
-Once this README is set up, users will have a clear guide on how to use your one-time pad encoding and decoding scripts!
