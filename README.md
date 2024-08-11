@@ -23,7 +23,7 @@ This repository contains Python scripts for encoding and decoding messages using
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/valinux/Number-Station.git
    cd your-repo-name
    ```
 
