@@ -1,7 +1,7 @@
 ### Steps to Encode and Send
 
 1. **Create the Microdot**:
-   - Convert the **Encryption Key** and **Word Mapping JSON File** into a small format, such as a microdot. This typically involves reducing the text size to a tiny dot that can be printed or displayed.
+   - Convert the **Encryption Key** and **Word Mapping JSON File** into a small format, such as a microdot. This typically involves reducing the text size to a tiny dot that can be printed or displayed. !!NOT SMART TO DO THIS AT ALL USE YOUR BRAIN!!! This is just an example! DONT DO IT.
 
 2. **Transmit the One-Time Pad**:
    - Send the one-time pad numbers separately, ensuring that the recipient understands they need to use these numbers to decode the message.
@@ -9,7 +9,7 @@
 ### Example Process
 
 1. **Generate the Microdot**:
-   - You can use a small text representation of your data and print it at a very small scale. For example, create a miniaturized version of your key and the contents of the JSON file.
+   - You can use a small text representation of your data and print it at a very small scale. For example, create a miniaturized version of your key and the contents of the JSON file. !!!NOT SO SMART.!!!
 
 2. **Send Information**:
    - Send the microdot through a secure channel (e.g., a physical note, an image, or digital encoding) and separately share the one-time pad numbers via another method (e.g., verbally, or through a secure messaging app).
@@ -27,3 +27,6 @@ The recipient will only need the one-time pad numbers and a way to decode the mi
 ### Conclusion
 
 This method enhances security by obscuring the sensitive details (encryption key and word mapping) while still allowing the recipient to decode the original message. If you need help with how to create microdots or any specific details about the encoding process, just let me know!
+
+USE your BRAIN JSON FILE NEEDS TO BE SEPERATED FROM THE KEY. DONT PUT ON THE MICRODOT BOTH LMAO.
+EVERYTHING ELSE IS GOOD.
