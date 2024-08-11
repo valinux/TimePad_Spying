@@ -1,10 +1,10 @@
 <br><b>The best practice to meet your favorite unknown person online IRL is to USE this time pad and microdots with the encoded msg</br></b>
 
-```markdown
+
 # One-Time Pad Encoder/Decoder for Number Stations
 
 This repository contains Python scripts for encoding and decoding messages using a one-time pad (OTP). It simulates the concept of number stations by converting messages into numeric form, encoding them with a randomly generated OTP, and then allowing for decoding of those messages.
-
+```markdown
 ## Features
 
 - Encode messages into numeric form.
@@ -16,7 +16,7 @@ This repository contains Python scripts for encoding and decoding messages using
 
 - Python 3.x
 - No additional libraries are required as the code uses built-in Python modules.
-
+```
 ## Usage
 
 ### Encoding a Message
